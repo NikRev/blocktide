@@ -1,0 +1,50 @@
+"app.name" = "BlockCraft";
+"app.name.upper" = "BLOCKCRAFT";
+
+"home.subtitle" = "Premium puzzle flow for iPhone and iPad";
+"home.settings" = "Settings";
+"home.stats.format" = "SESSIONS %d   LINES %d   AVG %ds";
+
+"settings.title" = "Settings";
+"settings.theme" = "Theme";
+"settings.music" = "Music";
+"settings.sfx" = "SFX";
+"settings.haptics" = "Haptics";
+
+"theme.neon" = "Neon";
+"theme.retro" = "Retro";
+"theme.minimal_dark" = "Minimal Dark";
+"theme.light" = "White";
+
+"game_mode.classic.title" = "Classic";
+"game_mode.sprint.title" = "Sprint";
+"game_mode.endless.title" = "Endless";
+"game_mode.classic.subtitle" = "Levels and increasing speed";
+"game_mode.sprint.subtitle" = "Clear 40 lines as fast as possible";
+"game_mode.endless.subtitle" = "Play forever and chase consistency";
+
+"splash.subtitle" = "Loading premium puzzle experience...";
+
+"onboarding.title" = "How to play";
+"onboarding.message" = "Tap left and right halves to move.\nSwipe up for hard drop.\nUse Rotate and Hold for better combos.";
+"onboarding.start" = "Start Playing";
+
+"game.controls.rotate" = "Rotate";
+"game.controls.left" = "Left";
+"game.controls.right" = "Right";
+"game.controls.hard_drop" = "Hard Drop";
+"game.controls.hold" = "Hold";
+"game.controls.pause" = "Pause";
+"game.controls.resume" = "Resume";
+
+"game.hud.score" = "Score";
+"game.hud.lines" = "Lines";
+"game.hud.level" = "Level";
+"game.hud.next" = "Next";
+"game.hud.hold" = "Hold";
+
+"result.sprint_complete" = "Sprint Complete";
+"result.game_over" = "Game Over";
+"result.stats.format" = "Score  %d\nLines  %d\nLevel  %d";
+"result.replay" = "Play Again";
+"result.back" = "Back to Menu";

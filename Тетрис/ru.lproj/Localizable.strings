@@ -1,0 +1,50 @@
+"app.name" = "Блоккрафт";
+"app.name.upper" = "БЛОККРАФТ";
+
+"home.subtitle" = "Премиальный тетрис для iPhone и iPad";
+"home.settings" = "Настройки";
+"home.stats.format" = "СЕССИЙ %d   ЛИНИЙ %d   СРЕДНЕЕ %dс";
+
+"settings.title" = "Настройки";
+"settings.theme" = "Тема";
+"settings.music" = "Музыка";
+"settings.sfx" = "Эффекты";
+"settings.haptics" = "Вибрация";
+
+"theme.neon" = "Неон";
+"theme.retro" = "Ретро";
+"theme.minimal_dark" = "Тёмная";
+"theme.light" = "Белая";
+
+"game_mode.classic.title" = "Классика";
+"game_mode.sprint.title" = "Спринт";
+"game_mode.endless.title" = "Бесконечный";
+"game_mode.classic.subtitle" = "Уровни и постепенное ускорение";
+"game_mode.sprint.subtitle" = "Очисти 40 линий как можно быстрее";
+"game_mode.endless.subtitle" = "Играй без конца и бей рекорды";
+
+"splash.subtitle" = "Загружаем премиальный игровой опыт...";
+
+"onboarding.title" = "Как играть";
+"onboarding.message" = "Нажимай левую и правую часть поля для движения.\nСвайп вверх — жесткий сброс.\nИспользуй поворот и Hold для лучших комбинаций.";
+"onboarding.start" = "Начать игру";
+
+"game.controls.rotate" = "Поворот";
+"game.controls.left" = "Влево";
+"game.controls.right" = "Вправо";
+"game.controls.hard_drop" = "Сброс";
+"game.controls.hold" = "Холд";
+"game.controls.pause" = "Пауза";
+"game.controls.resume" = "Продолжить";
+
+"game.hud.score" = "Счёт";
+"game.hud.lines" = "Линии";
+"game.hud.level" = "Уровень";
+"game.hud.next" = "Следующая";
+"game.hud.hold" = "Холд";
+
+"result.sprint_complete" = "Спринт завершен";
+"result.game_over" = "Игра окончена";
+"result.stats.format" = "Счёт   %d\nЛинии  %d\nУровень %d";
+"result.replay" = "Сыграть снова";
+"result.back" = "В меню";
