@@ -1,7 +1,7 @@
-"app.name" = "Блоккрафт";
-"app.name.upper" = "БЛОККРАФТ";
+"app.name" = "Blocktide";
+"app.name.upper" = "BLOCKTIDE";
 
-"home.subtitle" = "Премиальный тетрис для iPhone и iPad";
+"home.subtitle" = "Премиальная головоломка для iPhone и iPad";
 "home.settings" = "Настройки";
 "home.stats.format" = "СЕССИЙ %d   ЛИНИЙ %d   СРЕДНЕЕ %dс";
 
